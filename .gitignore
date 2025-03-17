@@ -1,0 +1,5 @@
+# Ignore dataset
+backend/data/real_estate_data.csv
+
+# Ignore build folder
+backend/build
