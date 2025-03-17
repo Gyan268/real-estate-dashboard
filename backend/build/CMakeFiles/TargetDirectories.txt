@@ -1,0 +1,3 @@
+/Users/gyan/Documents/real-estate-dashboard/backend/build/CMakeFiles/real_estate_server.dir
+/Users/gyan/Documents/real-estate-dashboard/backend/build/CMakeFiles/edit_cache.dir
+/Users/gyan/Documents/real-estate-dashboard/backend/build/CMakeFiles/rebuild_cache.dir
